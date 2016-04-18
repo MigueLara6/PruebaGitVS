@@ -10,6 +10,7 @@ namespace pruebaDefinitivaGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola");
         }
     }
 }
